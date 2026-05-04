@@ -1,0 +1,19 @@
+{
+  "name": "pwwithts",
+  "version": "1.0.0",
+  "description": "Playwright E2E Tests with AI capabilites incl MCP",
+  "keywords": [
+    "playwright",
+    "playwright-e2e-test",
+    "playwright-mcp"
+  ],
+  "license": "ISC",
+  "author": "jyoti",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {},
+  "devDependencies": {
+    "@playwright/test": "^1.59.1",
+    "@types/node": "^25.6.0"
+  }
+}
